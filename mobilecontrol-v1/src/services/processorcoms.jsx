@@ -216,8 +216,11 @@ function init()
 
 	window.addEventListener("load", init, false);  
 
-    let chromeboxSelect = doPush(1);
-    
+    let chromeboxSelect = (onmousedown=doPush(1), onmouseup=doRelease(1));
+    let airserverSelect = (onmousedown=doPush(2), onmouseup=doRelease(2));
+    let hdmi1Select = (onmousedown=doPush(3), onmouseup=doRelease(3));
+    let hdmi2Select = (onmousedown=doPush(4), onmouseup=doRelease(4));
+
 
 
 

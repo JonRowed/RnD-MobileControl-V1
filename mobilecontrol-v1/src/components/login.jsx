@@ -5,10 +5,10 @@ class login extends Component {
     state = { 
         roomCode
      }
-
-     handleSubmit = 
-     
+   
     render() { 
+
+
         return ( 
             <div>
                 <h1>Shopify Room Control</h1>
@@ -20,6 +20,6 @@ class login extends Component {
             </div>    
          );
     }
-}
+};
  
 export default login;
