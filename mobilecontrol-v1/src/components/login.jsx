@@ -2,10 +2,7 @@ import React, { Component } from 'react';
 import Joi from "joi-browser";
 
 class login extends Component {
-    state = { 
-        roomCode
-     }
-   
+      
     render() { 
 
 

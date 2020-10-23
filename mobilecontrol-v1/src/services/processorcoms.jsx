@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class ProcessorComs extends Component {
+class ProcessorComms extends Component {
 
 
 }
@@ -227,4 +227,4 @@ function init()
     
 
  
-export default ProcessorComs;
+export default ProcessorComms;

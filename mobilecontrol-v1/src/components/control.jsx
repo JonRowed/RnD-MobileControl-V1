@@ -4,7 +4,7 @@ import Airserver from './airserver';
 import Chromebox from './chromebox';
 import HDMI1 from './hdmi1';
 import HDMI2 from './hdmi2';
-import processorComms from '../services/processorComms';
+import processorComms from '../services/processorcoms';
 
 
 
